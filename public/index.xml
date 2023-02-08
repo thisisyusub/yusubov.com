@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yusubov</title>
+    <link>https://eternity.bora.sh/</link>
+    <description>Recent content on Yusubov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eternity.bora.sh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MKT Cotton</title>
+      <link>https://eternity.bora.sh/mkt-cotton/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternity.bora.sh/mkt-cotton/</guid>
+      <description>MKT Cotton MKT COTTON mobile application is a new contract application for farmers who are partners with MKT Istehsalat Kommersiya LLC, as well as information on previous contracts, a mobile application designed to monitor transactions. All farmers can benefit from the features listed in the application.</description>
+    </item>
+    
+    <item>
+      <title>Qasid</title>
+      <link>https://eternity.bora.sh/qasid/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternity.bora.sh/qasid/</guid>
+      <description>Qasid It is possible to read news from different news sites in Azerbaijan in this application by selecting them within one application.</description>
+    </item>
+    
+    <item>
+      <title>Azerconnect Inside</title>
+      <link>https://eternity.bora.sh/inside/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternity.bora.sh/inside/</guid>
+      <description>Azerconnect Inside Inside application is developed for users with an aim of increasing awareness about telecom industry, engaging more users to our acitivites. Users can get information about corporate news, announcements, events, vacancies, company information and e.t.c.</description>
+    </item>
+    
+    <item>
+      <title>404</title>
+      <link>https://eternity.bora.sh/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternity.bora.sh/404.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://eternity.bora.sh/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternity.bora.sh/about/</guid>
+      <description>I am a passionate software engineer with 3 years of working experience. I am building mobile and web applications using Flutter.. Nowadays interested in iOS Development ☎️ Contact information 📧 kanan.yusub@gmail.com
+📞 +994 50 804 04 58
+👨🏻‍💻 Work experience Senior Mobile Platforms Engineer Azerconnect LLC, Azerbaijan, Baku - (15/07/2022 - present)
+We are building Intranet Application of Azerconnect for employees. The app including biometric authentication, deep linking, custom UIs, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

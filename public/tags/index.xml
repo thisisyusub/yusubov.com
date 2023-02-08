@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on Yusubov</title>
+    <link>https://eternity.bora.sh/tags/</link>
+    <description>Recent content in tags on Yusubov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eternity.bora.sh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>work</title>
+      <link>https://eternity.bora.sh/tags/work/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eternity.bora.sh/tags/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
