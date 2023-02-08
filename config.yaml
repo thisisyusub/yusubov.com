@@ -1,0 +1,69 @@
+baseURL: https://eternity.bora.sh # todo: change site url.
+title: Yusubov # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/banner.png
+  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: Kanan Yusubov # todo: set your full name.
+  dontShowSource: false # please, do not do this :)
+  portfolio:
+    columns:
+      desktop:
+        nature: 4
+        archive: 6
+        people: 2
+        default: 3
+      mobile:
+        default: 2
+        archive: 3
+        people: 1
+  socials:
+    # todo: change these links.
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:kanan.yusub@gmail.com'
+      landing: true
+    - icon: 'fab fa-github fa-lg'
+      url: 'https://github.com/thisisyusub'
+      landing: true
+    - icon: 'fab fa-linkedin-in fa-lg'
+      url: 'https://www.linkedin.com/in/thisisyusub/'
+    - icon: 'fab fa-stack-overflow fa-lg'
+      url: 'https://stackoverflow.com/users/10996870/thisisyusub'
+  homepage: "/work" # homepage link, mostly same with menu.main[0]
+  specialPages:
+    - work
+    - archive
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: false # disables the background image on the homepage
+  plausible: '' # todo: set your plausible id.
+  disableRadius: true
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: work
+      url: /work/
+      weight: 1
+    - name: about
+      url: /about/
+      weight: 2
+    - name: resume
+      url: https://raw.githubusercontent.com/thisisyusub/portfolio-images/8eb2bbdd084fd1e5eb83031856caf58f2c84edc1/Resume.pdf
+      weight: 3
